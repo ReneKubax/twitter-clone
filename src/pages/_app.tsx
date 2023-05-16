@@ -15,6 +15,8 @@ const MyApp: AppType<{ session: Session | null }> = ({
     <SessionProvider session={session}>
       <Head>
         <title>Twitter Clone</title>
+        <meta name="description" content="This is a twitter clone by Rene Fuentes" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <Component {...pageProps} />
     </SessionProvider>
