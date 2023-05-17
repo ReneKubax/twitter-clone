@@ -1,31 +1,30 @@
-# Create T3 App
+## This is a FullStack Twitter clone with T3 Stack like backend and NextJs, TailwindCss, TypeScript, I used Next Auth, Discord Verification to do the Login.
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
-## What's next? How do I make an app with this?
+Build locally:
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+**1. Clone Repo**
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+```bash
+git clone https://github.com/ReneKubax/twitter-clone
+```
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+**2. Install Dependencies**
 
-## Learn More
+```bash
+npm i
+```
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+**3. Run App**
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+```bash
+npm run dev
+```
 
-## How do I deploy this?
+**Deploy of Portfolio**
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+https://twitter-clone-v2-kohl.vercel.app/
 
 ![image](https://github.com/ReneKubax/twitter-clone/assets/97212849/602069e8-0cd7-40da-913f-195e79404637)
 
