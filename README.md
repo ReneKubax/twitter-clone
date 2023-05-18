@@ -1,4 +1,4 @@
-## This is a FullStack Twitter clone with T3 Stack like backend and NextJs, TailwindCss, TypeScript, I used Next Auth, Discord Verification to do the Login.
+## Twitter clone -  This is a FullStack  with T3 Stack like backend and NextJs, TailwindCss, TypeScript, I used Next Auth, Discord Verification to do the Login.
 
 
 Build locally:
